@@ -16,7 +16,7 @@ const buttonVariants = cva(
     variants: {
       size: {
         auth: "h-11 w-full font-semibold text-base",
-        default: "h-12 px-4 py-2 text-base",
+        default: "h-12 px-5 py-3 text-base",
         icon: "h-10 w-10",
         lg: "h-12 lg:h-[3.75rem] rounded-md px-7  text-lg",
         sm: "h-9 rounded-md px-3",
