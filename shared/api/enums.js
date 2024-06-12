@@ -1,0 +1,13 @@
+export const InputEnum = {
+  TEXT: "TEXT",
+  EMAIL: "EMAIL",
+  PASSWORD: "PASSWORD",
+  SELECT: "SELECT",
+  URL: "URL",
+  IMAGE: "IMAGE",
+  TEXTAREA: "TEXTAREA",
+  CHECKBOX: "CHECKBOX",
+  NUMBER: "NUMBER",
+  DATE: "DATE",
+  SELECT_OR_TEXT: "SELECT_OR_TEXT",
+};

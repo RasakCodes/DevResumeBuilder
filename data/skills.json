@@ -1,0 +1,10 @@
+[  { "label": "Tableau", "value": "Tableau" },
+  { "label": "Power BI", "value": "Power BI" },
+  { "label": "Excel", "value": "Excel" },
+  { "label": "Figma", "value": "Figma" },
+  { "label": "Adobe XD", "value": "Adobe XD" },
+  { "label": "Adobe Illustrator", "value": "Adobe Illustrator" },
+  { "label": "Docker hub", "value": "Docker hub" },
+  { "label": "Github", "value": "Github" },
+  { "label": "Gitlab", "value": "Gitlab" }
+]
